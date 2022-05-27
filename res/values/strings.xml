@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cau2</string>
+    <string-array name="myarray">
+        <item>Đây Thôn Vĩ Dạ</item>
+        <item>Bác ơi</item>
+        <item>Nhớ Đồng</item>
+    </string-array>
+</resources>
